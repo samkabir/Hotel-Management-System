@@ -1,0 +1,49 @@
+.info{
+  padding-left: 10px;
+  width: 220px;
+  height: 44px;
+  margin: 20px 0px;
+  border-radius: 10px;
+}
+.hmpage{
+  margin-top: 20px;
+}
+.info-margin{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.food{
+  padding: 0px 100px;
+}
+.btn{
+    padding-left: 18px;
+    margin-left: 15px;
+    color: black;
+    margin-bottom: 25px
+}
+.btn:hover {
+  transition: 0.3s;
+  background: orange;
+}
+h2{
+    color: black;
+    font-weight: 400;
+    font-size: 30px;
+}
+/*.search{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.search, h2{
+  padding-left: 20px;
+}*/
+.error {
+  width: 92%; 
+  margin: 0px auto; 
+  padding: 10px; 
+  border: 1px solid #a94442; 
+  color: #a94442; 
+  background: #f2dede; 
+  border-radius: 5px; 
+  text-align: left;
+}

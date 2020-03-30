@@ -1,0 +1,19 @@
+/* === Navigation Section Starts === */
+body{
+	color: #f4f4f4;
+}
+.nav-link{
+	background-color: #343a40;
+	color: #ffffff;
+	height: 60px;
+	padding-top: 17px;
+	font-size: 15px;
+}
+.nav-link:hover {
+	transition: 0.5s;
+	color: orange;
+}
+.justify-content-end {
+	height: 60px;
+}
+/* === Navigation Section Ends === */

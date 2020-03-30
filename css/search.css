@@ -1,0 +1,42 @@
+.info{
+  padding-left: 10px;
+  width: 220px;
+  height: 44px;
+  margin: 20px 0px;
+  border-radius: 10px;
+}
+.hmpage{
+  margin-top: 20px;
+}
+.info-margin{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.btn{
+    padding-left: 18px;
+    margin-left: 15px;
+    color: black;
+    margin-bottom: 25px
+}
+.btn:hover {
+  transition: 0.3s;
+  background: orange;
+}
+.error {
+  width: 92%; 
+  margin: 0px auto; 
+  padding: 10px; 
+  border: 1px solid #a94442; 
+  color: #a94442; 
+  background: #f2dede; 
+  border-radius: 5px; 
+  text-align: left;
+}
+p{
+    color: black;
+    font-size: 20px;
+    margin-bottom: -15px;
+}
+h2{
+  color: black;
+}

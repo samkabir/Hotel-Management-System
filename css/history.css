@@ -1,0 +1,13 @@
+.btn{
+    padding-left: 18px;
+    margin-left: 15px;
+    color: black;
+    margin-bottom: 25px
+}
+.btn:hover {
+  transition: 0.3s;
+  background: orange;
+}
+a{
+	color: black;
+}
